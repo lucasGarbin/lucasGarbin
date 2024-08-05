@@ -1,8 +1,71 @@
-div p {
-    text-align: center;
-    color: red;
-  }
-  
-  p {
-    text-align: left;
-  }
+
+header {
+    
+	background-color: #4CAF50;
+	color: white;
+}
+
+nav {
+	background-color: #333;
+}
+
+section {
+	background-color: #ffffff;
+}
+
+footer {
+	background-color: #4CAF50;
+    color: white;
+}
+
+header {
+   text-align: center;
+}
+
+nav ul {
+   list-style-type: none;
+   text-align: center;
+}
+
+section h2 {
+   color: #333;
+}
+
+footer {
+   text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+ }
+
+ header {
+    padding: 20px;
+ }
+
+ header h1 {
+    margin: 0;
+ }
+
+ nav ul {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ section {
+    
+    padding: 20px;
+    background-color: #f4f4f4;
+ }
+ 
+ section p {
+    margin: 10px 0;
+ }
+ 
+ footer {
+    margin: 50px;
+    border-radius: 100px;
+    padding: 10px;
+ }
+ 
